@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola! I'm Padmaja</h1>
 <div align="center">
-  <img src="https://i.redd.it/70kxbgclienf1.jpeg" alt="pfp" style="height: 250px;"/>
+  <img src="https://i.redd.it/dfleu1qykhqf1.jpeg" alt="pfp" style="height: 250px;"/>
 </div>
 
 <h3 align="center">Fullstack Developer | Consequently Melancholic | Debugging Life</h3>
